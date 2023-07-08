@@ -81,7 +81,7 @@ def start_game():
     invisible_turtle()
     turtle.tracer(1)
     show_turtle_random()
-    countdown(5)
+    countdown(20)
 
 def finish_game():
     turtle.mainloop()
